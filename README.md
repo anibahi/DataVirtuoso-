@@ -1,4 +1,4 @@
-# Anibaipages Portfolio Website
+# Anibai Portfolio Website
 
 This is my personal portfolio website where I showcase my projects and skills in machine learning and datascience.
 
